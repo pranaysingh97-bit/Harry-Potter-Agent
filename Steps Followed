@@ -1,0 +1,8 @@
+1. Import CrewAI framework
+2. API’s - Gemini 2.5 flash and Serper for RAG
+3. Persona backstory
+4. Define Role and goal of agent
+5. Define instructions for linkedin post
+6. Set temperature = >0.6, for creativity
+7. Set Verbose = True, for Reasoning + Acting (ReAct)
+8. Ask model to take input from user
